@@ -1,1 +1,1 @@
-# establish connection with mysql using PDO (PHP)
+# setup connection with mysql using PDO (PHP)
